@@ -1,0 +1,32 @@
+body {
+	font-family: Arial;
+	background-color: lightcoral; 
+	margin: 150px;
+	margin top: 50px;
+	
+}
+
+
+h1 {
+	font-size: 72px;
+	color: white;	
+
+}
+
+h2 {
+	font-size: 36px;
+	margin-left-right: 300px;
+	color: mistyrose ;
+
+}
+
+h4 {
+	color: mistyrose;
+
+}
+
+li { 
+	list-style-type: square;
+	margin-left: 175px;
+}
+
